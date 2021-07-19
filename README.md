@@ -4,5 +4,5 @@ A Python repository to remove whitespaces from images.
 `python whitespace_remove.py filename`
 
 # TODO
-[] Remove vertical lines.
-[] Speed-up.
+- [ ] Remove vertical lines.
+- [ ] Speed-up.
